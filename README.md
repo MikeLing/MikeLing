@@ -1,7 +1,17 @@
 ### Hi there 👋
 
 Love And Open Source! Started from Mozilla, want to use code to make people live better! 
+----
 
+<s>GSOC student for Mozilla A-team</s>  <br/>
+
+<s>GSOC student for shogun</s> <br/>
+
+<s>IOT postgraduation</s> <br/>
+
+<s>pingcap intership</s> <br/>
+
+Working for [Agora.io](https://www.agora.io/en/) as SRE Engineer <br>
 
 <br>
 
