@@ -19,6 +19,5 @@ Love And Open Source
 <hr>
 
 <p  align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=MikeLing" alt="visitor badges"/>
-<img src="https://komarev.com/ghpvc/?username=MikeLing&label=Visitors" alt="visitor badge"/>       
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=MikeLing.README123)
 </p>
