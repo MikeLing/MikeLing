@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**MikeLing/MikeLing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Love And Open Source
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+![abserari's github stats](https://github-readme-stats.vercel.app/api?username=MikeLing&show_icons=true&theme=radical)
+
+
+<details> 
+<summary>Weekly Times</summary> 
+  
+ 
+ [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MikeLing)](https://github.com/anuraghazra/github-readme-stats)
+
+</details> 
+<br>
+<hr>
+
+<p  align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=MikeLing" alt="visitor badges"/>
+<img src="https://komarev.com/ghpvc/?username=MikeLing&label=Visitors" alt="visitor badge"/>       
+</p>
