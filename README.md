@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Love And Open Source
+Love And Open Source! Started from Mozilla, want to use code to make people live better! 
 
 
 <br>
