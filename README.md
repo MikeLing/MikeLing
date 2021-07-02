@@ -3,15 +3,15 @@
 Love And Open Source! Started from Open Source, want to use code to make people live better! 
 ----
 
-<s>GSOC student for Mozilla A-team</s>  <br/>
+<s>GSOC student for Mozilla A-team</s> :fox_face:  <br/> 
 
-<s>GSOC student for shogun</s> <br/>
+<s>GSOC student for shogun</s> :carousel_horse: <br/>
 
-<s>IOT postgraduation</s> <br/>
+<s>IOT postgraduation</s> :man_student: <br/>
 
-<s>pingcap intership</s> <br/>
+<s>pingcap intership</s> :technologist: <br/>
 
-Working for [Agora.io](https://www.agora.io/en/) as SRE Engineer <br>
+Working for [Agora.io](https://www.agora.io/en/) as SRE Engineer  :technologist: <br>
 
 <br>
 
