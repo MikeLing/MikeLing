@@ -11,7 +11,9 @@ Love And Open Source! Started from Open Source, want to use code to make people 
 
 <s>pingcap intership</s> :technologist: <br/>
 
-Working for [Agora.io](https://www.agora.io/en/) as SRE Engineer  :technologist: <br>
+<s>Worked for [Agora.io](https://www.agora.io/en/) as SRE Engineer  :technologist: </s> <br>
+ 
+Working for Meituan as a Middleware SRE <br/>
 
 <br>
 
