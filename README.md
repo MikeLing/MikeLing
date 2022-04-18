@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Love And Open Source! Started from Open Source, want to use code to make people live better! 
+Love And Open Source! Started from Open Source! 
 ----
 
 <s>GSOC student for Mozilla A-team</s> :fox_face:  <br/> 
