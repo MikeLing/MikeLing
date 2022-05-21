@@ -16,7 +16,7 @@ Wechat ID <code>echo -n 'VGlyYW1pc3VfTFdK' | base64 -d</code>
 Working for Meituan as a Middleware SRE <br/>
 <br>
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="500">
 
 <p align="center">
 <!-- 	<a href="https://github.com/MikeLing"><img src="https://github-profile-trophy.vercel.app/?username=MikeLing&row=1&theme=flat" alt="achievements"></a> -->
