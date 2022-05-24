@@ -2,21 +2,14 @@
 
 Wechat ID <code>echo -n 'VGlyYW1pc3VfTFdK' | base64 -d</code>
 ----
-
-<s>GSOC student for Mozilla A-team</s> :fox_face:  <br/> 
-
-<s>GSOC student for shogun</s> :carousel_horse: <br/>
-
-<s>IOT postgraduation</s> :man_student: <br/>
-
-<s>pingcap intership</s> :technologist: <br/>
-
-<s>Worked for [Agora.io](https://www.agora.io/en/) as SRE Engineer  :technologist: </s> <br>
  
-Working for Meituan as a Middleware SRE <br/>
++ Working for [Meituan](https://about.meituan.com/en) as a Middleware SRE :man_technologist: <br/>
++ Learning cilium && edpf :seedling: <br/>
++ Hand on k8s and service mesh things :sunglasses: <br/>
+
 <br>
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="500">
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
 <p align="center">
 <!-- 	<a href="https://github.com/MikeLing"><img src="https://github-profile-trophy.vercel.app/?username=MikeLing&row=1&theme=flat" alt="achievements"></a> -->
