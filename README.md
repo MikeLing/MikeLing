@@ -21,20 +21,7 @@
 ----
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin?username=MikeLing&repo=dotvim&theme=dracula&show_owner=true&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/pin?username=MikeLing&repo=httl&theme=dracula&show_owner=true&hide_border=true" />
-</div>
-
-----
-
-<div align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=MikeLing&theme=react-dark" />
 </div>
 <br>
 <hr>
-
-<p  align="center">
-
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=MikeLing.visitor-badge)
-
-</p>
