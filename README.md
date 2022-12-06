@@ -9,19 +9,27 @@
 
 <br>
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+<div align="center">
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=MikeLing&hide_title=true&hide_border=true&show_icons=true&line_height=21&theme=dracula" />
+    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeLing&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=dracula" />
+</div>
 
-<p align="center">
-<!-- 	<a href="https://github.com/MikeLing"><img src="https://github-profile-trophy.vercel.app/?username=MikeLing&row=1&theme=flat" alt="achievements"></a> -->
-</p>
+<div align="center"><img src="https://raw.githubusercontent.com/MikeLing/MikeLing/output/github-contribution-grid-snake-dark.svg" /></div>
 
-<details> 
-<summary>Weekly Times</summary> 
-  
- 
- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MikeLing)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=MikeLing&theme=onedark&row=1&column=7&no-frame=true&no-bg=true" /></div>
 
-</details> 
+----
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin?username=MikeLing&repo=dotvim&theme=dracula&show_owner=true&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin?username=MikeLing&repo=httl&theme=dracula&show_owner=true&hide_border=true" />
+</div>
+
+----
+
+<div align="center">
+<img src="https://activity-graph.herokuapp.com/graph?username=MikeLing&theme=react-dark" />
+</div>
 <br>
 <hr>
 
