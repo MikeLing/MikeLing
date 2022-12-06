@@ -19,9 +19,5 @@
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=MikeLing&theme=onedark&row=1&column=7&no-frame=true&no-bg=true" /></div>
 
 ----
-
-<div align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=MikeLing&theme=react-dark" />
-</div>
 <br>
 <hr>
